@@ -1,0 +1,13 @@
+:root {
+	--black: #111;
+	--white: #fff;
+	--grey: #ccc;
+	--lt_grey: #eee;
+	--header_height: 70px;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: Helvetica, sans-serif;
+}
